@@ -17,9 +17,10 @@ https://drive.google.com/file/d/1F0Fdb6mDn7KLImPYqJYGTDYtqUVhjel0/view?usp=shari
  7. Issue item: It is used to issue items to the retailer
  8. Receive item:It is used to receive the items from supplier.
 
-Tech Stack
-
-
+Tech Stack:-
+1:-Python
+2.Django
+3.MySQL Wprkbench
 
 
 
