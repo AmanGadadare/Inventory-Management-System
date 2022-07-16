@@ -25,13 +25,12 @@ Tech Stack
 
 Implementation:-
 
-1.Sign In
 ![11](https://user-images.githubusercontent.com/93522857/179371022-fea924f9-9232-4b66-a39c-e79ce7aa3356.JPG)
-1.Sign In
+
 ![12](https://user-images.githubusercontent.com/93522857/179371034-d20eb520-0e40-4959-9dd0-105899882849.JPG]
-1.Sign In
+
 ![13](https://user-images.githubusercontent.com/93522857/179371080-87840a3f-cb01-4c89-80e0-ea56c7d97ba3.JPG)
-1.Sign In
+
 ![14](https://user-images.githubusercontent.com/93522857/179371042-a106d079-4034-4f30-abd7-3d3efee77ae1.JPG)
-1.Sign In
+
 ![15](https://user-images.githubusercontent.com/93522857/179371051-5965a82f-07e2-4a5e-b556-0f8526959582.JPG)
