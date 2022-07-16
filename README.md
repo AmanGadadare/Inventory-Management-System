@@ -20,7 +20,7 @@ https://drive.google.com/file/d/1F0Fdb6mDn7KLImPYqJYGTDYtqUVhjel0/view?usp=shari
 Tech Stack:-
 1:-Python
 2.Django
-3.MySQL Wprkbench
+3.MySQL Workbench
 
 
 
