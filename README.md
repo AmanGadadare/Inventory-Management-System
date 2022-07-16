@@ -4,9 +4,7 @@ The Inventory  management system  allows user to view and
 manage various inventories added in the system. System generatesales reports of products for different categories and also notify the user to reorder the product.
 
 ## Project Description
-### 1. Add items: 
-This is used to add the items that are brought into
-the inventory.
+### 1. Add items: This is used to add the items that are brought into the inventory.
 ### 2. Add category :
 This is used to create new category in system.
 ### 3. Reorder level: This is used to notify the owner to place an
